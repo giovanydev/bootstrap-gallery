@@ -1,0 +1,63 @@
+body {
+	padding-top: 70px;
+}
+
+.navbar {
+	background: #2c3e50;
+}
+
+.navbar-default .navbar-nav li a{
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.image1 {
+  background-image: url(https://images.unsplash.com/photo-1519999482648-25049ddd37b1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0471f46a1cda51342fdecf9a8c42349f&auto=format&fit=crop&w=626&q=80);
+}
+
+.image2 {
+  background-image: url(https://images.unsplash.com/photo-1527956041665-d7a1b380c460?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=11b46bc143a4d6b55c5884eb199d7cc8&auto=format&fit=crop&w=334&q=80);
+}
+
+.image3 {
+  background-image: url(https://images.unsplash.com/photo-1519794206461-cccd885bf209?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=30689342f8e008bbf05742ca46bb9e1c&auto=format&fit=crop&w=401&q=80);
+}
+
+.image4 {
+  background-image: url(https://images.unsplash.com/photo-1517935706615-2717063c2225?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ac98df3f1fc0d4d520ea2ab469cdaeb5&auto=format&fit=crop&w=401&q=80);
+}
+
+.image5 {
+  background-image: url(https://images.unsplash.com/photo-1525935944571-4e99237764c9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c7e5657e5756e9b06fc608ac20463e22&auto=format&fit=crop&w=751&q=80);
+}
+
+.image6 {
+  background-image: url(https://images.unsplash.com/photo-1506106496075-402bf5161d2d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0bb81d2e6e8c796ed889a79184dd0288&auto=format&fit=crop&w=751&q=80);
+}
+
+.image7 {
+  background-image: url(https://images.unsplash.com/photo-1518182170546-07661fd94144?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8bed49ff1eadbbe3813b9134c972317b&auto=format&fit=crop&w=334&q=80);
+}
+
+.image8 {
+  background-image: url(https://images.unsplash.com/photo-1529845854138-1a3853d5954c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f040a28c51c2c7bb85e7327641caf85f&auto=format&fit=crop&w=334&q=80);
+}
+
+.image9 {
+  background-image: url(https://images.unsplash.com/photo-1502921982-f2471545c93b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=706066eead9b91f6ee416e5bb3a40145&auto=format&fit=crop&w=750&q=80);
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
